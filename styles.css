@@ -1,2 +1,5 @@
 
 /* Your CSS Code here. */
+.needs-validation input:invalid {
+            border-color: red;
+        }
